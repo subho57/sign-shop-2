@@ -1,0 +1,435 @@
+HTTrack3.49-2 launched on Sun, 26 Dec 2021 18:00:29 at http://theme.ridianur.com/hampoz/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w http://theme.ridianur.com/hampoz/ -O "/home/subhankar/websites/demo-sign-shop" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:03:44	Error: 	"Method Not Allowed" (405) at link theme.ridianur.com/hampoz/xmlrpc.php (from theme.ridianur.com/hampoz/)
+18:03:46	Error: 	"Not Found" (404) at link fonts.googleapis.com/ (from theme.ridianur.com/hampoz/)
+18:03:47	Warning: 	Moved Permanently for s.w.org/
+18:03:47	Warning: 	File has moved from s.w.org/ to https://wordpress.org/
+18:10:09	Warning: 	Warning: store text/html without scan: /home/subhankar/websites/demo-sign-shop/gmpg.org/xfn/.html
+18:10:09	Warning: 	Warning: store text/html without scan: /home/subhankar/websites/demo-sign-shop/gmpg.org/xfn/intro.html
+18:10:09	Warning: 	Warning: store text/html without scan: /home/subhankar/websites/demo-sign-shop/gmpg.org/xfn/faq.html
+18:10:09	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=245
+18:10:09	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=245 to http://theme.ridianur.com/hampoz/home-modern/
+18:10:16	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=382
+18:10:16	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=382 to http://theme.ridianur.com/hampoz/home-modern-two/
+18:10:16	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=542
+18:10:16	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=542 to http://theme.ridianur.com/hampoz/home-fullwidth/
+18:10:16	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=478
+18:10:16	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=478 to http://theme.ridianur.com/hampoz/home-personal/
+18:10:16	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=505
+18:10:16	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=505 to http://theme.ridianur.com/hampoz/home-personal-two/
+18:10:16	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=148
+18:10:16	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=148 to http://theme.ridianur.com/hampoz/about-us/
+18:10:16	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=314
+18:10:16	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=314 to http://theme.ridianur.com/hampoz/about-us-two/
+18:10:16	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=520
+18:10:16	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=520 to http://theme.ridianur.com/hampoz/about-me/
+18:10:16	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=185
+18:10:16	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=185 to http://theme.ridianur.com/hampoz/works-page/
+18:10:16	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=346
+18:10:16	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=346 to http://theme.ridianur.com/hampoz/works-page-two/
+18:10:16	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=429
+18:10:16	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=429 to http://theme.ridianur.com/hampoz/works-gallery/
+18:10:16	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=456
+18:10:16	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=456 to http://theme.ridianur.com/hampoz/works-masonry-gallery/
+18:10:16	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=229
+18:10:16	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=229 to http://theme.ridianur.com/hampoz/contact-page/
+18:10:16	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=360
+18:10:16	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=360 to http://theme.ridianur.com/hampoz/contact-page-two/
+18:10:16	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=511
+18:10:16	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=511 to http://theme.ridianur.com/hampoz/blog-sidebar/
+18:10:50	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 2855): 0.gravatar.com/avatar/0ee989fcdd877a53de8bea5c88767105?s=88&d=identicon&r=g
+18:11:18	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=513
+18:11:18	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=513 to http://theme.ridianur.com/hampoz/blog-wide/
+18:11:23	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=657
+18:11:23	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=657 to http://theme.ridianur.com/hampoz/blog-slider/
+18:11:34	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=667
+18:11:34	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=667 to http://theme.ridianur.com/hampoz/blog-slider-two/
+18:11:36	Error: 	"Not Found" (404) at link theme.ridianur.com/hampoz/portfolio/integer-tincidunt/feed/ (from theme.ridianur.com/hampoz/portfolio/integer-tincidunt/)
+18:11:36	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=570
+18:11:36	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=570 to http://theme.ridianur.com/hampoz/portfolio/integer-tincidunt/
+18:11:36	Error: 	"Not Found" (404) at link theme.ridianur.com/hampoz/portfolio/quinoa-street/feed/ (from theme.ridianur.com/hampoz/portfolio/quinoa-street/)
+18:11:36	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=114
+18:11:36	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=114 to http://theme.ridianur.com/hampoz/portfolio/quinoa-street/
+18:11:36	Error: 	"Not Found" (404) at link theme.ridianur.com/hampoz/portfolio/gentrify-four/feed/ (from theme.ridianur.com/hampoz/portfolio/gentrify-four/)
+18:11:36	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=112
+18:11:36	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=112 to http://theme.ridianur.com/hampoz/portfolio/gentrify-four/
+18:11:37	Warning: 	Permanent Redirect for pinterest.com/robots.txt
+18:11:37	Warning: 	Redirected link is identical because of 'URL Hack' option: pinterest.com/robots.txt and https://pinterest.com/robots.txt
+18:11:37	Warning: 	Warning moved treated for pinterest.com/robots.txt (real one is https://pinterest.com/robots.txt)
+18:11:37	Warning: 	Permanent Redirect for pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/portfolio/gentrify-four/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/work1.jpg
+18:11:37	Warning: 	Redirected link is identical because of 'URL Hack' option: pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/portfolio/gentrify-four/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/work1.jpg and https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/portfolio/gentrify-four/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/work1.jpg
+18:11:37	Warning: 	File has moved from pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/portfolio/gentrify-four/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/work1.jpg to https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/portfolio/gentrify-four/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/work1.jpg
+18:11:37	Error: 	"Not Found" (404) at link theme.ridianur.com/hampoz/portfolio/ethical-occupy/feed/ (from theme.ridianur.com/hampoz/portfolio/ethical-occupy/)
+18:11:37	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=110
+18:11:37	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=110 to http://theme.ridianur.com/hampoz/portfolio/ethical-occupy/
+18:11:37	Error: 	"Not Found" (404) at link theme.ridianur.com/hampoz/portfolio/helvetica-consequat/feed/ (from theme.ridianur.com/hampoz/portfolio/helvetica-consequat/)
+18:11:37	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=108
+18:11:37	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=108 to http://theme.ridianur.com/hampoz/portfolio/helvetica-consequat/
+18:11:37	Error: 	"Not Found" (404) at link theme.ridianur.com/hampoz/portfolio/narwhal-keffiyeh/feed/ (from theme.ridianur.com/hampoz/portfolio/narwhal-keffiyeh/)
+18:11:37	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=52
+18:11:37	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=52 to http://theme.ridianur.com/hampoz/portfolio/narwhal-keffiyeh/
+18:11:37	Error: 	"Not Found" (404) at link theme.ridianur.com/hampoz/portfolio/asymmetrical-chambray/feed/ (from theme.ridianur.com/hampoz/portfolio/asymmetrical-chambray/)
+18:11:37	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=50
+18:11:37	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=50 to http://theme.ridianur.com/hampoz/portfolio/asymmetrical-chambray/
+18:11:37	Error: 	"Not Found" (404) at link theme.ridianur.com/hampoz/portfolio/bespoke-normcore/feed/ (from theme.ridianur.com/hampoz/portfolio/bespoke-normcore/)
+18:11:37	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=45
+18:11:37	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=45 to http://theme.ridianur.com/hampoz/portfolio/bespoke-normcore/
+18:11:44	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=652
+18:11:44	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=652 to http://theme.ridianur.com/hampoz/transformed-in-his-bed/
+18:11:51	Warning: 	Note: due to 0.gravatar.com remote robots.txt rules, links beginning with these path will be forbidden: /*.json, /*.xml, /*.php, /*.vcf, /*.qr, /accounts/activate/*, /accounts/force-by-email/*, /account/ (see in the options to disable this)
+18:11:52	Warning: 	Note: due to 2.gravatar.com remote robots.txt rules, links beginning with these path will be forbidden: /*.json, /*.xml, /*.php, /*.vcf, /*.qr, /accounts/activate/*, /accounts/force-by-email/*, /account/ (see in the options to disable this)
+18:11:52	Warning: 	Permanent Redirect for pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/transformed-in-his-bed/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog1.jpg
+18:11:52	Warning: 	Redirected link is identical because of 'URL Hack' option: pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/transformed-in-his-bed/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog1.jpg and https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/transformed-in-his-bed/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog1.jpg
+18:11:52	Warning: 	File has moved from pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/transformed-in-his-bed/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog1.jpg to https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/transformed-in-his-bed/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog1.jpg
+18:11:52	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=649
+18:11:52	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=649 to http://theme.ridianur.com/hampoz/breath-of-that-universal/
+18:11:53	Warning: 	Note: due to 1.gravatar.com remote robots.txt rules, links beginning with these path will be forbidden: /*.json, /*.xml, /*.php, /*.vcf, /*.qr, /accounts/activate/*, /accounts/force-by-email/*, /account/ (see in the options to disable this)
+18:11:53	Warning: 	Permanent Redirect for pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/breath-of-that-universal/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog3.jpg
+18:11:53	Warning: 	Redirected link is identical because of 'URL Hack' option: pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/breath-of-that-universal/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog3.jpg and https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/breath-of-that-universal/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog3.jpg
+18:11:53	Warning: 	File has moved from pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/breath-of-that-universal/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog3.jpg to https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/breath-of-that-universal/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog3.jpg
+18:11:53	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=647
+18:11:53	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=647 to http://theme.ridianur.com/hampoz/initial-into-the-belt/
+18:11:53	Warning: 	Permanent Redirect for pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/initial-into-the-belt/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog4.jpg
+18:11:53	Warning: 	Redirected link is identical because of 'URL Hack' option: pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/initial-into-the-belt/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog4.jpg and https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/initial-into-the-belt/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog4.jpg
+18:11:53	Warning: 	File has moved from pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/initial-into-the-belt/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog4.jpg to https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/initial-into-the-belt/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog4.jpg
+18:11:53	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=645
+18:11:53	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=645 to http://theme.ridianur.com/hampoz/their-separate-existence/
+18:11:53	Warning: 	Permanent Redirect for pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/their-separate-existence/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog5.jpg
+18:11:53	Warning: 	Redirected link is identical because of 'URL Hack' option: pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/their-separate-existence/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog5.jpg and https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/their-separate-existence/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog5.jpg
+18:11:53	Warning: 	File has moved from pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/their-separate-existence/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog5.jpg to https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/their-separate-existence/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog5.jpg
+18:11:54	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=640
+18:11:54	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=640 to http://theme.ridianur.com/hampoz/it-va-esser-tam-simplic-quam/
+18:11:54	Warning: 	Permanent Redirect for pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/it-va-esser-tam-simplic-quam/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog6.jpg
+18:11:54	Warning: 	Redirected link is identical because of 'URL Hack' option: pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/it-va-esser-tam-simplic-quam/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog6.jpg and https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/it-va-esser-tam-simplic-quam/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog6.jpg
+18:11:54	Warning: 	File has moved from pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/it-va-esser-tam-simplic-quam/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog6.jpg to https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/it-va-esser-tam-simplic-quam/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog6.jpg
+18:11:54	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=638
+18:11:54	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=638 to http://theme.ridianur.com/hampoz/window-at-the-dull-weather/
+18:11:54	Warning: 	Permanent Redirect for pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/window-at-the-dull-weather/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog7.jpg
+18:11:54	Warning: 	Redirected link is identical because of 'URL Hack' option: pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/window-at-the-dull-weather/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog7.jpg and https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/window-at-the-dull-weather/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog7.jpg
+18:11:54	Warning: 	File has moved from pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/window-at-the-dull-weather/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog7.jpg to https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/window-at-the-dull-weather/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog7.jpg
+18:11:55	Warning: 	Permanent Redirect for https://pinterest.com/robots.txt
+18:11:55	Warning: 	Redirected link is identical because of 'URL Hack' option: https://pinterest.com/robots.txt and https://www.pinterest.com/robots.txt
+18:11:55	Warning: 	Warning moved treated for https://pinterest.com/robots.txt (real one is https://www.pinterest.com/robots.txt)
+18:11:55	Warning: 	Permanent Redirect for https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/portfolio/gentrify-four/%26media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/work1.jpg
+18:11:55	Warning: 	Redirected link is identical because of 'URL Hack' option: https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/portfolio/gentrify-four/%26media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/work1.jpg and https://www.pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/portfolio/gentrify-four/%26media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/work1.jpg
+18:11:55	Warning: 	File has moved from https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/portfolio/gentrify-four/%26media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/work1.jpg to https://www.pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/portfolio/gentrify-four/%26media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/work1.jpg
+18:11:55	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=417
+18:11:55	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=417 to http://theme.ridianur.com/hampoz/a-collection-of-textile/
+18:11:55	Warning: 	Permanent Redirect for pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/a-collection-of-textile/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog8.jpg
+18:11:55	Warning: 	Redirected link is identical because of 'URL Hack' option: pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/a-collection-of-textile/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog8.jpg and https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/a-collection-of-textile/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog8.jpg
+18:11:55	Warning: 	File has moved from pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/a-collection-of-textile/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog8.jpg to https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/a-collection-of-textile/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog8.jpg
+18:11:55	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=1
+18:11:55	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=1 to http://theme.ridianur.com/hampoz/hello-world/
+18:11:55	Warning: 	Permanent Redirect for pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/hello-world/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/slider4.jpg
+18:11:55	Warning: 	Redirected link is identical because of 'URL Hack' option: pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/hello-world/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/slider4.jpg and https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/hello-world/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/slider4.jpg
+18:11:55	Warning: 	File has moved from pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/hello-world/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/slider4.jpg to https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/hello-world/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/slider4.jpg
+18:11:55	Warning: 	Permanent Redirect for https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/transformed-in-his-bed/%26media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog1.jpg
+18:11:55	Warning: 	Redirected link is identical because of 'URL Hack' option: https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/transformed-in-his-bed/%26media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog1.jpg and https://www.pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/transformed-in-his-bed/%26media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog1.jpg
+18:11:55	Warning: 	File has moved from https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/transformed-in-his-bed/%26media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog1.jpg to https://www.pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/transformed-in-his-bed/%26media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog1.jpg
+18:11:55	Warning: 	Permanent Redirect for https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/breath-of-that-universal/%26media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog3.jpg
+18:11:55	Warning: 	Redirected link is identical because of 'URL Hack' option: https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/breath-of-that-universal/%26media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog3.jpg and https://www.pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/breath-of-that-universal/%26media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog3.jpg
+18:11:55	Warning: 	File has moved from https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/breath-of-that-universal/%26media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog3.jpg to https://www.pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/breath-of-that-universal/%26media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog3.jpg
+18:11:55	Warning: 	Permanent Redirect for https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/initial-into-the-belt/%26media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog4.jpg
+18:11:55	Warning: 	Redirected link is identical because of 'URL Hack' option: https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/initial-into-the-belt/%26media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog4.jpg and https://www.pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/initial-into-the-belt/%26media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog4.jpg
+18:11:55	Warning: 	File has moved from https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/initial-into-the-belt/%26media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog4.jpg to https://www.pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/initial-into-the-belt/%26media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog4.jpg
+18:11:55	Warning: 	Permanent Redirect for https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/their-separate-existence/%26media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog5.jpg
+18:11:55	Warning: 	Redirected link is identical because of 'URL Hack' option: https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/their-separate-existence/%26media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog5.jpg and https://www.pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/their-separate-existence/%26media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog5.jpg
+18:11:55	Warning: 	File has moved from https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/their-separate-existence/%26media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog5.jpg to https://www.pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/their-separate-existence/%26media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog5.jpg
+18:11:55	Warning: 	Permanent Redirect for https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/it-va-esser-tam-simplic-quam/%26media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog6.jpg
+18:11:55	Warning: 	Redirected link is identical because of 'URL Hack' option: https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/it-va-esser-tam-simplic-quam/%26media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog6.jpg and https://www.pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/it-va-esser-tam-simplic-quam/%26media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog6.jpg
+18:11:55	Warning: 	File has moved from https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/it-va-esser-tam-simplic-quam/%26media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog6.jpg to https://www.pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/it-va-esser-tam-simplic-quam/%26media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog6.jpg
+18:11:55	Warning: 	Permanent Redirect for https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/window-at-the-dull-weather/%26media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog7.jpg
+18:11:55	Warning: 	Redirected link is identical because of 'URL Hack' option: https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/window-at-the-dull-weather/%26media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog7.jpg and https://www.pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/window-at-the-dull-weather/%26media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog7.jpg
+18:11:55	Warning: 	File has moved from https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/window-at-the-dull-weather/%26media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog7.jpg to https://www.pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/window-at-the-dull-weather/%26media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog7.jpg
+18:11:56	Warning: 	Permanent Redirect for https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/a-collection-of-textile/%26media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog8.jpg
+18:11:56	Warning: 	Redirected link is identical because of 'URL Hack' option: https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/a-collection-of-textile/%26media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog8.jpg and https://www.pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/a-collection-of-textile/%26media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog8.jpg
+18:11:56	Warning: 	File has moved from https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/a-collection-of-textile/%26media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog8.jpg to https://www.pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/a-collection-of-textile/%26media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog8.jpg
+18:11:56	Warning: 	Permanent Redirect for https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/hello-world/%26media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/slider4.jpg
+18:11:56	Warning: 	Redirected link is identical because of 'URL Hack' option: https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/hello-world/%26media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/slider4.jpg and https://www.pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/hello-world/%26media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/slider4.jpg
+18:11:56	Warning: 	File has moved from https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/hello-world/%26media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/slider4.jpg to https://www.pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/hello-world/%26media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/slider4.jpg
+18:11:56	Warning: 	HTML file (79536 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/wp-json/
+18:11:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/wp/v2/pages/6
+18:12:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2F
+18:12:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2F&format=xml
+18:12:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fhome-modern%2F
+18:12:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/wp/v2/pages/245
+18:13:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fhome-modern%2F&format=xml
+18:13:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fhome-modern-two%2F
+18:13:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/wp/v2/pages/382
+18:13:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fhome-modern-two%2F&format=xml
+18:14:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/wp/v2/pages/542
+18:14:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fhome-fullwidth%2F
+18:14:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fhome-fullwidth%2F&format=xml
+18:14:18	Warning: 	HTML file (33753 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/portfolio/integer-tincidunt/
+18:14:24	Warning: 	HTML file (45256 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/portfolio/quinoa-street/
+18:14:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/wp/v2/pages/478
+18:14:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fhome-personal%2F
+18:14:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fhome-personal%2F&format=xml
+18:14:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/wp/v2/pages/505
+18:14:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fhome-personal-two%2F
+18:14:30	Warning: 	HTML file (51791 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/portfolio/gentrify-four/
+18:14:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fhome-personal-two%2F&format=xml
+18:14:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/wp/v2/pages/148
+18:14:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fabout-us%2F
+18:14:36	Warning: 	HTML file (43355 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/portfolio/ethical-occupy/
+18:14:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fabout-us%2F&format=xml
+18:14:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/wp/v2/pages/314
+18:14:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fabout-us-two%2F
+18:14:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fabout-us-two%2F&format=xml
+18:14:42	Warning: 	HTML file (58855 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/portfolio/helvetica-consequat/
+18:14:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fabout-me%2F
+18:14:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/wp/v2/pages/520
+18:14:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fabout-me%2F&format=xml
+18:14:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/wp/v2/pages/185
+18:14:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fworks-page%2F&format=xml
+18:14:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fworks-page%2F
+18:14:49	Warning: 	HTML file (34317 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/portfolio/narwhal-keffiyeh/
+18:14:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/wp/v2/pages/346
+18:14:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fworks-page-two%2F
+18:14:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fworks-page-two%2F&format=xml
+18:14:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fworks-gallery%2F
+18:14:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/wp/v2/pages/429
+18:14:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fworks-gallery%2F&format=xml
+18:14:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fworks-masonry-gallery%2F
+18:14:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/wp/v2/pages/456
+18:14:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fworks-masonry-gallery%2F&format=xml
+18:14:58	Warning: 	Warning: store text/css without scan: /home/subhankar/websites/demo-sign-shop/gmpg.org/xfn/default.css
+18:14:59	Warning: 	HTML file (791 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/?p=245
+18:15:01	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=245
+18:15:01	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=245 to http://theme.ridianur.com/hampoz/home-modern/
+18:15:01	Warning: 	HTML file (34078 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/portfolio/asymmetrical-chambray/
+18:15:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fcontact-page%2F
+18:15:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/wp/v2/pages/229
+18:15:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fcontact-page%2F&format=xml
+18:15:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/wp/v2/pages/360
+18:15:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fcontact-page-two%2F
+18:15:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fcontact-page-two%2F&format=xml
+18:15:05	Warning: 	HTML file (33906 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/portfolio/bespoke-normcore/
+18:15:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fblog-sidebar%2F
+18:15:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/wp/v2/pages/511
+18:15:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fblog-sidebar%2F&format=xml
+18:15:12	Warning: 	HTML file (799 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/?p=382
+18:15:14	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=382
+18:15:14	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=382 to http://theme.ridianur.com/hampoz/home-modern-two/
+18:15:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/wp/v2/pages/513
+18:15:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fblog-wide%2F
+18:15:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fblog-wide%2F&format=xml
+18:15:16	Warning: 	HTML file (797 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/?p=542
+18:15:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/wp/v2/pages/657
+18:15:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fblog-slider%2F&format=xml
+18:15:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fblog-slider%2F
+18:15:18	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=542
+18:15:18	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=542 to http://theme.ridianur.com/hampoz/home-fullwidth/
+18:15:20	Warning: 	HTML file (795 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/?p=478
+18:15:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fblog-slider-two%2F
+18:15:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/wp/v2/pages/667
+18:15:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fportfolio%2Finteger-tincidunt%2F
+18:15:22	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=478
+18:15:22	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=478 to http://theme.ridianur.com/hampoz/home-personal/
+18:15:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fportfolio%2Finteger-tincidunt%2F&format=xml
+18:15:23	Warning: 	HTML file (803 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/?p=505
+18:15:25	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=505
+18:15:25	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=505 to http://theme.ridianur.com/hampoz/home-personal-two/
+18:15:26	Warning: 	HTML file (785 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/?p=148
+18:15:28	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=148
+18:15:28	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=148 to http://theme.ridianur.com/hampoz/about-us/
+18:15:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fportfolio%2Fquinoa-street%2F&format=xml
+18:15:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fportfolio%2Fquinoa-street%2F
+18:15:28	Warning: 	HTML file (793 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/?p=314
+18:15:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fportfolio%2Fgentrify-four%2F
+18:15:31	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=314
+18:15:31	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=314 to http://theme.ridianur.com/hampoz/about-us-two/
+18:15:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fportfolio%2Fgentrify-four%2F&format=xml
+18:15:33	Warning: 	HTML file (785 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/?p=520
+18:15:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fportfolio%2Fethical-occupy%2F&format=xml
+18:15:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fportfolio%2Fhelvetica-consequat%2F
+18:15:35	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=520
+18:15:35	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=520 to http://theme.ridianur.com/hampoz/about-me/
+18:15:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fportfolio%2Fnarwhal-keffiyeh%2F
+18:15:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fportfolio%2Fhelvetica-consequat%2F&format=xml
+18:15:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fportfolio%2Fnarwhal-keffiyeh%2F&format=xml
+18:15:37	Warning: 	HTML file (789 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/?p=185
+18:15:39	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=185
+18:15:39	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=185 to http://theme.ridianur.com/hampoz/works-page/
+18:15:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fportfolio%2Fasymmetrical-chambray%2F
+18:15:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fportfolio%2Fasymmetrical-chambray%2F&format=xml
+18:15:42	Warning: 	HTML file (33499 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/tag/event/feed/
+18:15:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fportfolio%2Fbespoke-normcore%2F
+18:15:43	Warning: 	HTML file (31497 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/tag/funny/feed/
+18:15:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fportfolio%2Fbespoke-normcore%2F&format=xml
+18:15:44	Warning: 	HTML file (797 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/?p=346
+18:15:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/wp/v2/tags/17
+18:15:46	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=346
+18:15:46	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=346 to http://theme.ridianur.com/hampoz/works-page-two/
+18:15:46	Warning: 	HTML file (795 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/?p=429
+18:15:47	Warning: 	HTML file (31511 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/tag/movie/feed/
+18:15:47	Warning: 	HTML file (26842 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/tag/music/feed/
+18:15:48	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=429
+18:15:48	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=429 to http://theme.ridianur.com/hampoz/works-gallery/
+18:15:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/wp/v2/tags/13
+18:15:48	Warning: 	HTML file (811 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/?p=456
+18:15:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/wp/v2/tags/12
+18:15:50	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=456
+18:15:50	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=456 to http://theme.ridianur.com/hampoz/works-masonry-gallery/
+18:15:50	Warning: 	HTML file (36169 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/tag/people/feed/
+18:15:51	Warning: 	HTML file (793 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/?p=229
+18:15:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/wp/v2/tags/16
+18:15:52	Warning: 	HTML file (3993 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/transformed-in-his-bed/feed/
+18:15:53	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=229
+18:15:53	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=229 to http://theme.ridianur.com/hampoz/contact-page/
+18:15:54	Warning: 	HTML file (801 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/?p=360
+18:15:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/wp/v2/posts/652
+18:15:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Ftransformed-in-his-bed%2F&format=xml
+18:15:58	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=360
+18:15:58	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=360 to http://theme.ridianur.com/hampoz/contact-page-two/
+18:15:59	Warning: 	HTML file (793 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/?p=511
+18:16:00	Warning: 	HTML file (31578 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/author/admin/feed/
+18:16:00	Warning: 	HTML file (2877 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/breath-of-that-universal/feed/
+18:16:01	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=511
+18:16:01	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=511 to http://theme.ridianur.com/hampoz/blog-sidebar/
+18:16:01	Warning: 	HTML file (32202 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/tag/event/
+18:16:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/wp/v2/users/1
+18:16:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/wp/v2/posts/649
+18:16:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fbreath-of-that-universal%2F
+18:16:05	Warning: 	HTML file (30689 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/author/admin/
+18:16:05	Warning: 	HTML file (818 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/initial-into-the-belt/feed/
+18:16:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/wp/v2/posts/647
+18:16:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Finitial-into-the-belt%2F
+18:16:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Finitial-into-the-belt%2F&format=xml
+18:16:09	Warning: 	HTML file (46524 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/initial-into-the-belt/
+18:16:09	Warning: 	HTML file (827 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/their-separate-existence/feed/
+18:16:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Ftheir-separate-existence%2F
+18:16:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/wp/v2/posts/645
+18:16:12	Warning: 	HTML file (14496 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/category/uncategorized/feed/
+18:16:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Ftheir-separate-existence%2F&format=xml
+18:16:14	Warning: 	HTML file (29523 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/category/politics/feed/
+18:16:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/wp/v2/categories/1
+18:16:16	Warning: 	HTML file (52487 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/their-separate-existence/
+18:16:17	Warning: 	HTML file (24790 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/category/news/feed/
+18:16:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/wp/v2/categories/15
+18:16:19	Warning: 	HTML file (839 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/it-va-esser-tam-simplic-quam/feed/
+18:16:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/wp/v2/categories/18
+18:16:22	Warning: 	HTML file (48355 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/blog-sidebar/page/2/
+18:16:22	Warning: 	HTML file (833 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/window-at-the-dull-weather/feed/
+18:16:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/wp/v2/posts/640
+18:16:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fit-va-esser-tam-simplic-quam%2F&format=xml
+18:16:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/wp/v2/posts/638
+18:16:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fwindow-at-the-dull-weather%2F
+18:16:27	Warning: 	HTML file (787 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/?p=513
+18:16:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fwindow-at-the-dull-weather%2F&format=xml
+18:16:27	Warning: 	HTML file (13442 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/category/magazine/feed/
+18:16:28	Warning: 	HTML file (824 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/a-collection-of-textile/feed/
+18:16:30	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=513
+18:16:30	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=513 to http://theme.ridianur.com/hampoz/blog-wide/
+18:16:30	Warning: 	HTML file (28353 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/category/uncategorized/
+18:16:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/wp/v2/posts/417
+18:16:32	Warning: 	HTML file (1688 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/hello-world/feed/
+18:16:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fa-collection-of-textile%2F
+18:16:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fa-collection-of-textile%2F&format=xml
+18:16:34	Warning: 	HTML file (791 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/?p=657
+18:16:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/wp/v2/posts/1
+18:16:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fhello-world%2F&format=xml
+18:16:37	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=657
+18:16:37	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=657 to http://theme.ridianur.com/hampoz/blog-slider/
+18:16:37	Warning: 	HTML file (50080 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/it-va-esser-tam-simplic-quam/
+18:16:42	Warning: 	HTML file (51846 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/window-at-the-dull-weather/
+18:16:46	Warning: 	HTML file (55445 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/blog-slider/page/2/
+18:16:52	Warning: 	HTML file (799 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/?p=667
+18:16:53	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=667
+18:16:53	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=667 to http://theme.ridianur.com/hampoz/blog-slider-two/
+18:16:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fblog-slider-two%2F&format=xml
+18:16:55	Warning: 	HTML file (24603 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/portfolio/quinoa-street/feed/
+18:16:57	Error: 	"Not Found" (404) at link theme.ridianur.com/hampoz/portfolio/quinoa-street/feed/ (from theme.ridianur.com/hampoz/portfolio/quinoa-street/)
+18:16:57	Warning: 	HTML file (24603 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/portfolio/gentrify-four/feed/
+18:16:59	Error: 	"Not Found" (404) at link theme.ridianur.com/hampoz/portfolio/gentrify-four/feed/ (from theme.ridianur.com/hampoz/portfolio/gentrify-four/)
+18:16:59	Warning: 	HTML file (1210 bytes) retransferred due to lack of cache: pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/portfolio/gentrify-four/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/work1.jpg
+18:17:00	Warning: 	Permanent Redirect for pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/portfolio/gentrify-four/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/work1.jpg
+18:17:00	Warning: 	Redirected link is identical because of 'URL Hack' option: pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/portfolio/gentrify-four/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/work1.jpg and https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/portfolio/gentrify-four/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/work1.jpg
+18:17:00	Warning: 	File has moved from pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/portfolio/gentrify-four/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/work1.jpg to https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/portfolio/gentrify-four/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/work1.jpg
+18:17:00	Warning: 	HTML file (24603 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/portfolio/ethical-occupy/feed/
+18:17:02	Error: 	"Not Found" (404) at link theme.ridianur.com/hampoz/portfolio/ethical-occupy/feed/ (from theme.ridianur.com/hampoz/portfolio/ethical-occupy/)
+18:17:02	Warning: 	HTML file (24603 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/portfolio/helvetica-consequat/feed/
+18:17:04	Error: 	"Not Found" (404) at link theme.ridianur.com/hampoz/portfolio/helvetica-consequat/feed/ (from theme.ridianur.com/hampoz/portfolio/helvetica-consequat/)
+18:17:04	Warning: 	HTML file (24603 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/portfolio/narwhal-keffiyeh/feed/
+18:17:07	Error: 	"Not Found" (404) at link theme.ridianur.com/hampoz/portfolio/narwhal-keffiyeh/feed/ (from theme.ridianur.com/hampoz/portfolio/narwhal-keffiyeh/)
+18:17:07	Warning: 	HTML file (24603 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/portfolio/asymmetrical-chambray/feed/
+18:17:10	Error: 	"Not Found" (404) at link theme.ridianur.com/hampoz/portfolio/asymmetrical-chambray/feed/ (from theme.ridianur.com/hampoz/portfolio/asymmetrical-chambray/)
+18:17:10	Warning: 	HTML file (24603 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/portfolio/bespoke-normcore/feed/
+18:17:14	Error: 	"Not Found" (404) at link theme.ridianur.com/hampoz/portfolio/bespoke-normcore/feed/ (from theme.ridianur.com/hampoz/portfolio/bespoke-normcore/)
+18:17:14	Warning: 	HTML file (29623 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/tag/event/page/2/
+18:17:18	Warning: 	HTML file (32909 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/tag/funny/page/2/
+18:17:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/wp/v2/tags/14
+18:17:23	Warning: 	HTML file (49101 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/a-collection-of-textile/
+18:17:28	Warning: 	HTML file (29625 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/tag/people/page/2/
+18:17:32	Warning: 	HTML file (813 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/?p=652
+18:17:33	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=652
+18:17:33	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=652 to http://theme.ridianur.com/hampoz/transformed-in-his-bed/
+18:17:33	Warning: 	HTML file (37248 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/hello-world/
+18:17:38	Warning: 	Note: due to 0.gravatar.com remote robots.txt rules, links beginning with these path will be forbidden: /*.json, /*.xml, /*.php, /*.vcf, /*.qr, /accounts/activate/*, /accounts/force-by-email/*, /account/ (see in the options to disable this)
+18:17:38	Warning: 	HTML file (54563 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/transformed-in-his-bed/?replytocom=2
+18:17:42	Warning: 	HTML file (54520 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/transformed-in-his-bed/?replytocom=3
+18:17:46	Warning: 	HTML file (37326 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/author/admin/page/2/
+18:17:50	Warning: 	HTML file (817 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/?p=649
+18:17:51	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=649
+18:17:51	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=649 to http://theme.ridianur.com/hampoz/breath-of-that-universal/
+18:17:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftheme.ridianur.com%2Fhampoz%2Fbreath-of-that-universal%2F&format=xml
+18:17:53	Warning: 	HTML file (52080 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/breath-of-that-universal/?replytocom=7
+18:17:58	Warning: 	HTML file (811 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/?p=647
+18:17:59	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=647
+18:17:59	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=647 to http://theme.ridianur.com/hampoz/initial-into-the-belt/
+18:17:59	Warning: 	HTML file (1202 bytes) retransferred due to lack of cache: pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/initial-into-the-belt/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog4.jpg
+18:18:00	Warning: 	Permanent Redirect for pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/initial-into-the-belt/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog4.jpg
+18:18:00	Warning: 	Redirected link is identical because of 'URL Hack' option: pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/initial-into-the-belt/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog4.jpg and https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/initial-into-the-belt/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog4.jpg
+18:18:00	Warning: 	File has moved from pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/initial-into-the-belt/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog4.jpg to https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/initial-into-the-belt/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog4.jpg
+18:18:00	Warning: 	HTML file (817 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/?p=645
+18:18:01	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=645
+18:18:01	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=645 to http://theme.ridianur.com/hampoz/their-separate-existence/
+18:18:01	Warning: 	HTML file (1214 bytes) retransferred due to lack of cache: pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/their-separate-existence/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog5.jpg
+18:18:02	Warning: 	Permanent Redirect for pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/their-separate-existence/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog5.jpg
+18:18:02	Warning: 	Redirected link is identical because of 'URL Hack' option: pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/their-separate-existence/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog5.jpg and https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/their-separate-existence/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog5.jpg
+18:18:02	Warning: 	File has moved from pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/their-separate-existence/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog5.jpg to https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/their-separate-existence/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog5.jpg
+18:18:02	Warning: 	HTML file (825 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/?p=640
+18:18:03	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=640
+18:18:03	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=640 to http://theme.ridianur.com/hampoz/it-va-esser-tam-simplic-quam/
+18:18:03	Warning: 	HTML file (1230 bytes) retransferred due to lack of cache: pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/it-va-esser-tam-simplic-quam/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog6.jpg
+18:18:04	Warning: 	Permanent Redirect for pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/it-va-esser-tam-simplic-quam/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog6.jpg
+18:18:04	Warning: 	Redirected link is identical because of 'URL Hack' option: pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/it-va-esser-tam-simplic-quam/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog6.jpg and https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/it-va-esser-tam-simplic-quam/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog6.jpg
+18:18:04	Warning: 	File has moved from pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/it-va-esser-tam-simplic-quam/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog6.jpg to https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/it-va-esser-tam-simplic-quam/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog6.jpg
+18:18:04	Warning: 	HTML file (821 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/?p=638
+18:18:05	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=638
+18:18:05	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=638 to http://theme.ridianur.com/hampoz/window-at-the-dull-weather/
+18:18:05	Warning: 	HTML file (1222 bytes) retransferred due to lack of cache: pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/window-at-the-dull-weather/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog7.jpg
+18:18:06	Warning: 	Permanent Redirect for pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/window-at-the-dull-weather/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog7.jpg
+18:18:06	Warning: 	Redirected link is identical because of 'URL Hack' option: pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/window-at-the-dull-weather/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog7.jpg and https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/window-at-the-dull-weather/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog7.jpg
+18:18:06	Warning: 	File has moved from pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/window-at-the-dull-weather/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog7.jpg to https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/window-at-the-dull-weather/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog7.jpg
+18:18:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): theme.ridianur.com/hampoz/wp-json/wp/v2/categories/19
+18:18:07	Warning: 	HTML file (1214 bytes) retransferred due to lack of cache: https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/portfolio/gentrify-four/%26media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/work1.jpg
+18:18:08	Warning: 	Permanent Redirect for https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/portfolio/gentrify-four/%26media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/work1.jpg
+18:18:08	Warning: 	Redirected link is identical because of 'URL Hack' option: https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/portfolio/gentrify-four/%26media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/work1.jpg and https://www.pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/portfolio/gentrify-four/%26media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/work1.jpg
+18:18:08	Warning: 	File has moved from https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/portfolio/gentrify-four/%26media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/work1.jpg to https://www.pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/portfolio/gentrify-four/%26media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/work1.jpg
+18:18:08	Warning: 	HTML file (815 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/?p=417
+18:18:09	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=417
+18:18:09	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=417 to http://theme.ridianur.com/hampoz/a-collection-of-textile/
+18:18:09	Warning: 	HTML file (1210 bytes) retransferred due to lack of cache: pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/a-collection-of-textile/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog8.jpg
+18:18:10	Warning: 	Permanent Redirect for pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/a-collection-of-textile/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog8.jpg
+18:18:10	Warning: 	Redirected link is identical because of 'URL Hack' option: pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/a-collection-of-textile/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog8.jpg and https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/a-collection-of-textile/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog8.jpg
+18:18:10	Warning: 	File has moved from pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/a-collection-of-textile/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog8.jpg to https://pinterest.com/pin/create/button/?url=http://theme.ridianur.com/hampoz/a-collection-of-textile/&media=http://theme.ridianur.com/hampoz/wp-content/uploads/2018/02/blog8.jpg
+18:18:10	Warning: 	HTML file (787 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/?p=1
+18:18:11	Warning: 	Moved Permanently for theme.ridianur.com/hampoz/?p=1
+18:18:11	Warning: 	File has moved from theme.ridianur.com/hampoz/?p=1 to http://theme.ridianur.com/hampoz/hello-world/
+18:18:11	Warning: 	HTML file (37363 bytes) retransferred due to lack of cache: theme.ridianur.com/hampoz/hello-world/?replytocom=1
+18:18:15	Error: 	"Not Found" (404) at link theme.ridianur.com/hampoz/wp-content/themes/hampoz/fonts/glyphicons-halflings-regular.eot (from theme.ridianur.com/hampoz/wp-content/themes/hampoz/css/bootstrap.min.css?ver=1)
+18:18:15	Error: 	"Not Found" (404) at link theme.ridianur.com/hampoz/wp-content/themes/hampoz/fonts/glyphicons-halflings-regular.eot? (from theme.ridianur.com/hampoz/wp-content/themes/hampoz/css/bootstrap.min.css?ver=1)
+18:18:15	Error: 	"Not Found" (404) at link theme.ridianur.com/hampoz/wp-content/themes/hampoz/fonts/glyphicons-halflings-regular.woff2 (from theme.ridianur.com/hampoz/wp-content/themes/hampoz/css/bootstrap.min.css?ver=1)
+18:18:15	Error: 	"Not Found" (404) at link theme.ridianur.com/hampoz/wp-content/themes/hampoz/fonts/glyphicons-halflings-regular.woff (from theme.ridianur.com/hampoz/wp-content/themes/hampoz/css/bootstrap.min.css?ver=1)
+18:18:15	Error: 	"Not Found" (404) at link theme.ridianur.com/hampoz/wp-content/themes/hampoz/fonts/glyphicons-halflings-regular.ttf (from theme.ridianur.com/hampoz/wp-content/themes/hampoz/css/bootstrap.min.css?ver=1)
+18:18:15	Error: 	"Not Found" (404) at link theme.ridianur.com/hampoz/wp-content/themes/hampoz/fonts/glyphicons-halflings-regular.svg (from theme.ridianur.com/hampoz/wp-content/themes/hampoz/css/bootstrap.min.css?ver=1)
+
+HTTrack Website Copier/3.49-2 mirror complete in 17 minutes 46 seconds : 464 links scanned, 538 files written (18636663 bytes overall) [16916845 bytes received at 15869 bytes/sec], 3443510 bytes transferred using HTTP compression in 88 files, ratio 25%, 2.5 requests per connection
+(23 errors, 401 warnings, 0 messages)
